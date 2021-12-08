@@ -1,2 +1,3 @@
-# Homework_qa
-Homeworks from Vadim Ksendzov's course
+# HW_Terminal
+
+Homework terminal
